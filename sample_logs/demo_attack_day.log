@@ -1,0 +1,483 @@
+192.168.1.13 - - [19/Nov/2026:00:02:05 +0530] "POST /api/attendance HTTP/1.1" 304 9656 "-" "Mozilla/5.0"
+10.0.0.7 - - [19/Nov/2026:00:03:52 +0530] "GET /index.html HTTP/1.1" 200 83157 "-" "Mozilla/5.0"
+192.168.1.19 - - [19/Nov/2026:00:04:52 +0530] "GET /index.html HTTP/1.1" 200 76887 "-" "Mozilla/5.0"
+10.0.0.33 - - [19/Nov/2026:00:04:53 +0530] "GET /index.html HTTP/1.1" 200 62641 "-" "Mozilla/5.0"
+192.168.1.29 - - [19/Nov/2026:00:06:37 +0530] "GET /notes.pdf HTTP/1.1" 200 13270 "-" "Mozilla/5.0"
+192.168.1.12 - - [19/Nov/2026:00:18:26 +0530] "GET /notes.pdf HTTP/1.1" 200 75330 "-" "Mozilla/5.0"
+10.0.0.39 - - [19/Nov/2026:00:23:19 +0530] "GET /notes.pdf HTTP/1.1" 200 32494 "-" "Mozilla/5.0"
+192.168.1.48 - - [19/Nov/2026:00:32:26 +0530] "GET /notes.pdf HTTP/1.1" 200 20420 "-" "Mozilla/5.0"
+10.0.0.38 - - [19/Nov/2026:00:33:31 +0530] "GET /login HTTP/1.1" 304 38240 "-" "Mozilla/5.0"
+192.168.1.50 - - [19/Nov/2026:00:36:37 +0530] "POST /api/attendance HTTP/1.1" 200 29477 "-" "Mozilla/5.0"
+192.168.1.45 - - [19/Nov/2026:00:39:13 +0530] "POST /api/attendance HTTP/1.1" 304 41675 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:00:42:04 +0530] "GET /login HTTP/1.1" 200 46398 "-" "Mozilla/5.0"
+192.168.1.54 - - [19/Nov/2026:00:46:44 +0530] "GET /login HTTP/1.1" 304 37802 "-" "Mozilla/5.0"
+192.168.1.23 - - [19/Nov/2026:01:07:21 +0530] "GET /index.html HTTP/1.1" 200 530 "-" "Mozilla/5.0"
+192.168.1.32 - - [19/Nov/2026:01:09:05 +0530] "GET /notes.pdf HTTP/1.1" 200 30903 "-" "Mozilla/5.0"
+10.0.0.15 - - [19/Nov/2026:01:09:44 +0530] "GET /index.html HTTP/1.1" 200 84768 "-" "Mozilla/5.0"
+192.168.1.46 - - [19/Nov/2026:01:23:39 +0530] "GET /index.html HTTP/1.1" 200 27756 "-" "Mozilla/5.0"
+10.0.0.17 - - [19/Nov/2026:01:25:58 +0530] "POST /api/attendance HTTP/1.1" 200 22305 "-" "Mozilla/5.0"
+10.0.0.9 - - [19/Nov/2026:01:29:30 +0530] "POST /api/attendance HTTP/1.1" 200 11757 "-" "Mozilla/5.0"
+192.168.1.32 - - [19/Nov/2026:01:31:03 +0530] "GET /notes.pdf HTTP/1.1" 200 17452 "-" "Mozilla/5.0"
+192.168.1.52 - - [19/Nov/2026:01:31:53 +0530] "GET /notes.pdf HTTP/1.1" 200 37453 "-" "Mozilla/5.0"
+10.0.0.11 - - [19/Nov/2026:01:34:23 +0530] "GET /login HTTP/1.1" 200 68066 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:01:40:16 +0530] "GET /login HTTP/1.1" 200 62647 "-" "Mozilla/5.0"
+10.0.0.8 - - [19/Nov/2026:01:40:25 +0530] "GET /index.html HTTP/1.1" 200 9327 "-" "Mozilla/5.0"
+10.0.0.8 - - [19/Nov/2026:01:47:16 +0530] "POST /api/attendance HTTP/1.1" 200 68176 "-" "Mozilla/5.0"
+10.0.0.27 - - [19/Nov/2026:01:56:08 +0530] "POST /api/attendance HTTP/1.1" 200 54933 "-" "Mozilla/5.0"
+10.0.0.5 - - [19/Nov/2026:01:57:55 +0530] "POST /api/attendance HTTP/1.1" 304 52794 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:01:58:10 +0530] "GET /login HTTP/1.1" 200 70307 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:02:01:50 +0530] "GET /login HTTP/1.1" 304 34470 "-" "Mozilla/5.0"
+10.0.0.32 - - [19/Nov/2026:02:09:35 +0530] "GET /notes.pdf HTTP/1.1" 200 2366 "-" "Mozilla/5.0"
+192.168.1.45 - - [19/Nov/2026:02:12:17 +0530] "GET /index.html HTTP/1.1" 200 67047 "-" "Mozilla/5.0"
+192.168.1.56 - - [19/Nov/2026:02:27:55 +0530] "GET /notes.pdf HTTP/1.1" 200 4169 "-" "Mozilla/5.0"
+10.0.0.9 - - [19/Nov/2026:02:28:20 +0530] "GET /index.html HTTP/1.1" 200 56643 "-" "Mozilla/5.0"
+10.0.0.40 - - [19/Nov/2026:02:28:51 +0530] "GET /login HTTP/1.1" 200 11056 "-" "Mozilla/5.0"
+10.0.0.7 - - [19/Nov/2026:02:29:25 +0530] "GET /index.html HTTP/1.1" 200 22782 "-" "Mozilla/5.0"
+192.168.1.24 - - [19/Nov/2026:02:30:12 +0530] "GET /login HTTP/1.1" 200 63762 "-" "Mozilla/5.0"
+192.168.1.17 - - [19/Nov/2026:02:30:56 +0530] "GET /notes.pdf HTTP/1.1" 304 83841 "-" "Mozilla/5.0"
+10.0.0.15 - - [19/Nov/2026:02:32:15 +0530] "GET /login HTTP/1.1" 200 71849 "-" "Mozilla/5.0"
+192.168.1.19 - - [19/Nov/2026:02:35:03 +0530] "GET /login HTTP/1.1" 304 14407 "-" "Mozilla/5.0"
+192.168.1.18 - - [19/Nov/2026:02:37:57 +0530] "POST /api/attendance HTTP/1.1" 200 80660 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:02:44:17 +0530] "POST /api/attendance HTTP/1.1" 304 67052 "-" "Mozilla/5.0"
+192.168.1.38 - - [19/Nov/2026:02:48:57 +0530] "GET /index.html HTTP/1.1" 304 43178 "-" "Mozilla/5.0"
+10.0.0.3 - - [19/Nov/2026:02:49:11 +0530] "GET /index.html HTTP/1.1" 200 23089 "-" "Mozilla/5.0"
+192.168.1.60 - - [19/Nov/2026:02:52:25 +0530] "GET /notes.pdf HTTP/1.1" 200 68347 "-" "Mozilla/5.0"
+10.0.0.35 - - [19/Nov/2026:02:52:58 +0530] "GET /notes.pdf HTTP/1.1" 200 69117 "-" "Mozilla/5.0"
+10.0.0.2 - - [19/Nov/2026:02:58:41 +0530] "GET /login HTTP/1.1" 200 87084 "-" "Mozilla/5.0"
+192.168.1.36 - - [19/Nov/2026:02:58:47 +0530] "GET /login HTTP/1.1" 304 87331 "-" "Mozilla/5.0"
+10.0.0.35 - - [19/Nov/2026:02:59:35 +0530] "GET /notes.pdf HTTP/1.1" 304 18474 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:03:02:57 +0530] "GET /notes.pdf HTTP/1.1" 200 17481 "-" "Mozilla/5.0"
+192.168.1.13 - - [19/Nov/2026:03:04:40 +0530] "GET /login HTTP/1.1" 304 21897 "-" "Mozilla/5.0"
+10.0.0.7 - - [19/Nov/2026:03:05:38 +0530] "GET /notes.pdf HTTP/1.1" 200 35162 "-" "Mozilla/5.0"
+192.168.1.18 - - [19/Nov/2026:03:07:10 +0530] "GET /login HTTP/1.1" 200 24243 "-" "Mozilla/5.0"
+10.0.0.11 - - [19/Nov/2026:03:09:16 +0530] "GET /notes.pdf HTTP/1.1" 304 29281 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:03:09:34 +0530] "POST /api/attendance HTTP/1.1" 200 12225 "-" "Mozilla/5.0"
+192.168.1.12 - - [19/Nov/2026:03:10:17 +0530] "POST /api/attendance HTTP/1.1" 200 35003 "-" "Mozilla/5.0"
+10.0.0.23 - - [19/Nov/2026:03:15:02 +0530] "GET /login HTTP/1.1" 200 47238 "-" "Mozilla/5.0"
+10.0.0.29 - - [19/Nov/2026:03:21:26 +0530] "GET /notes.pdf HTTP/1.1" 200 42249 "-" "Mozilla/5.0"
+192.168.1.15 - - [19/Nov/2026:03:21:35 +0530] "POST /api/attendance HTTP/1.1" 304 2870 "-" "Mozilla/5.0"
+192.168.1.17 - - [19/Nov/2026:03:21:35 +0530] "POST /api/attendance HTTP/1.1" 200 81987 "-" "Mozilla/5.0"
+10.0.0.13 - - [19/Nov/2026:03:22:51 +0530] "GET /index.html HTTP/1.1" 200 5343 "-" "Mozilla/5.0"
+192.168.1.27 - - [19/Nov/2026:03:27:57 +0530] "GET /index.html HTTP/1.1" 200 2706 "-" "Mozilla/5.0"
+10.0.0.23 - - [19/Nov/2026:03:32:04 +0530] "GET /index.html HTTP/1.1" 200 14233 "-" "Mozilla/5.0"
+192.168.1.10 - - [19/Nov/2026:03:32:30 +0530] "GET /notes.pdf HTTP/1.1" 304 14430 "-" "Mozilla/5.0"
+10.0.0.21 - - [19/Nov/2026:03:33:48 +0530] "GET /notes.pdf HTTP/1.1" 200 58917 "-" "Mozilla/5.0"
+10.0.0.29 - - [19/Nov/2026:03:34:53 +0530] "POST /api/attendance HTTP/1.1" 200 28704 "-" "Mozilla/5.0"
+192.168.1.24 - - [19/Nov/2026:03:53:56 +0530] "GET /notes.pdf HTTP/1.1" 304 46054 "-" "Mozilla/5.0"
+10.0.0.7 - - [19/Nov/2026:03:55:32 +0530] "GET /login HTTP/1.1" 200 38911 "-" "Mozilla/5.0"
+10.0.0.8 - - [19/Nov/2026:03:56:31 +0530] "GET /notes.pdf HTTP/1.1" 200 21663 "-" "Mozilla/5.0"
+192.168.1.40 - - [19/Nov/2026:04:15:32 +0530] "GET /index.html HTTP/1.1" 200 35125 "-" "Mozilla/5.0"
+10.0.0.6 - - [19/Nov/2026:04:15:46 +0530] "GET /notes.pdf HTTP/1.1" 200 85687 "-" "Mozilla/5.0"
+192.168.1.56 - - [19/Nov/2026:04:18:46 +0530] "GET /notes.pdf HTTP/1.1" 200 67737 "-" "Mozilla/5.0"
+10.0.0.11 - - [19/Nov/2026:04:37:02 +0530] "POST /api/attendance HTTP/1.1" 200 39775 "-" "Mozilla/5.0"
+192.168.1.29 - - [19/Nov/2026:04:37:33 +0530] "GET /notes.pdf HTTP/1.1" 304 43247 "-" "Mozilla/5.0"
+192.168.1.11 - - [19/Nov/2026:04:40:23 +0530] "GET /index.html HTTP/1.1" 304 59664 "-" "Mozilla/5.0"
+192.168.1.45 - - [19/Nov/2026:04:40:34 +0530] "GET /notes.pdf HTTP/1.1" 304 35075 "-" "Mozilla/5.0"
+192.168.1.10 - - [19/Nov/2026:04:47:59 +0530] "GET /index.html HTTP/1.1" 200 62609 "-" "Mozilla/5.0"
+192.168.1.50 - - [19/Nov/2026:04:58:33 +0530] "GET /index.html HTTP/1.1" 200 11653 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:05:10:00 +0530] "POST /api/attendance HTTP/1.1" 304 53639 "-" "Mozilla/5.0"
+10.0.0.34 - - [19/Nov/2026:05:17:24 +0530] "GET /notes.pdf HTTP/1.1" 200 10279 "-" "Mozilla/5.0"
+10.0.0.5 - - [19/Nov/2026:05:17:43 +0530] "GET /index.html HTTP/1.1" 200 89066 "-" "Mozilla/5.0"
+10.0.0.20 - - [19/Nov/2026:05:29:29 +0530] "POST /api/attendance HTTP/1.1" 200 72468 "-" "Mozilla/5.0"
+192.168.1.40 - - [19/Nov/2026:05:39:40 +0530] "GET /notes.pdf HTTP/1.1" 200 79104 "-" "Mozilla/5.0"
+10.0.0.23 - - [19/Nov/2026:05:41:47 +0530] "GET /login HTTP/1.1" 200 2134 "-" "Mozilla/5.0"
+192.168.1.47 - - [19/Nov/2026:05:47:33 +0530] "GET /login HTTP/1.1" 200 17880 "-" "Mozilla/5.0"
+10.0.0.34 - - [19/Nov/2026:05:56:07 +0530] "GET /login HTTP/1.1" 200 65759 "-" "Mozilla/5.0"
+192.168.1.22 - - [19/Nov/2026:05:59:30 +0530] "GET /index.html HTTP/1.1" 200 60658 "-" "Mozilla/5.0"
+192.168.1.13 - - [19/Nov/2026:06:10:30 +0530] "POST /api/attendance HTTP/1.1" 200 37429 "-" "Mozilla/5.0"
+192.168.1.45 - - [19/Nov/2026:06:10:41 +0530] "GET /notes.pdf HTTP/1.1" 200 27746 "-" "Mozilla/5.0"
+192.168.1.18 - - [19/Nov/2026:06:15:05 +0530] "GET /notes.pdf HTTP/1.1" 200 73359 "-" "Mozilla/5.0"
+192.168.1.58 - - [19/Nov/2026:06:17:06 +0530] "GET /index.html HTTP/1.1" 200 83725 "-" "Mozilla/5.0"
+192.168.1.15 - - [19/Nov/2026:06:23:16 +0530] "GET /notes.pdf HTTP/1.1" 200 54604 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:06:25:41 +0530] "GET /notes.pdf HTTP/1.1" 200 63831 "-" "Mozilla/5.0"
+10.0.0.17 - - [19/Nov/2026:06:27:32 +0530] "GET /login HTTP/1.1" 200 49435 "-" "Mozilla/5.0"
+192.168.1.42 - - [19/Nov/2026:06:28:58 +0530] "GET /login HTTP/1.1" 304 56523 "-" "Mozilla/5.0"
+10.0.0.28 - - [19/Nov/2026:06:39:48 +0530] "GET /notes.pdf HTTP/1.1" 200 64145 "-" "Mozilla/5.0"
+192.168.1.35 - - [19/Nov/2026:06:45:00 +0530] "GET /login HTTP/1.1" 200 49287 "-" "Mozilla/5.0"
+192.168.1.60 - - [19/Nov/2026:06:51:48 +0530] "POST /api/attendance HTTP/1.1" 200 11061 "-" "Mozilla/5.0"
+192.168.1.34 - - [19/Nov/2026:06:53:21 +0530] "GET /index.html HTTP/1.1" 200 44838 "-" "Mozilla/5.0"
+10.0.0.27 - - [19/Nov/2026:06:55:37 +0530] "GET /index.html HTTP/1.1" 200 56605 "-" "Mozilla/5.0"
+10.0.0.32 - - [19/Nov/2026:07:00:04 +0530] "POST /api/attendance HTTP/1.1" 304 59344 "-" "Mozilla/5.0"
+192.168.1.25 - - [19/Nov/2026:07:01:26 +0530] "GET /login HTTP/1.1" 200 3355 "-" "Mozilla/5.0"
+10.0.0.33 - - [19/Nov/2026:07:05:16 +0530] "GET /notes.pdf HTTP/1.1" 304 49025 "-" "Mozilla/5.0"
+192.168.1.33 - - [19/Nov/2026:07:05:17 +0530] "GET /notes.pdf HTTP/1.1" 304 52896 "-" "Mozilla/5.0"
+192.168.1.25 - - [19/Nov/2026:07:09:09 +0530] "GET /index.html HTTP/1.1" 304 11641 "-" "Mozilla/5.0"
+10.0.0.21 - - [19/Nov/2026:07:17:20 +0530] "GET /notes.pdf HTTP/1.1" 304 69480 "-" "Mozilla/5.0"
+10.0.0.30 - - [19/Nov/2026:07:19:54 +0530] "GET /index.html HTTP/1.1" 200 4726 "-" "Mozilla/5.0"
+192.168.1.14 - - [19/Nov/2026:07:24:16 +0530] "GET /notes.pdf HTTP/1.1" 200 1871 "-" "Mozilla/5.0"
+192.168.1.55 - - [19/Nov/2026:07:40:16 +0530] "POST /api/attendance HTTP/1.1" 200 13534 "-" "Mozilla/5.0"
+10.0.0.19 - - [19/Nov/2026:07:48:03 +0530] "POST /api/attendance HTTP/1.1" 200 75772 "-" "Mozilla/5.0"
+192.168.1.45 - - [19/Nov/2026:07:50:08 +0530] "GET /notes.pdf HTTP/1.1" 200 85107 "-" "Mozilla/5.0"
+Nov 19 08:02:00 college-srv sshd[900]: Accepted publickey for arjun from 192.168.1.26 port 56185 ssh2
+10.0.0.17 - - [19/Nov/2026:08:02:24 +0530] "GET /index.html HTTP/1.1" 304 8702 "-" "Mozilla/5.0"
+10.0.0.21 - - [19/Nov/2026:08:05:03 +0530] "POST /api/attendance HTTP/1.1" 200 49352 "-" "Mozilla/5.0"
+192.168.1.20 - - [19/Nov/2026:08:11:41 +0530] "POST /api/attendance HTTP/1.1" 200 41371 "-" "Mozilla/5.0"
+192.168.1.57 - - [19/Nov/2026:08:13:31 +0530] "GET /notes.pdf HTTP/1.1" 200 25919 "-" "Mozilla/5.0"
+192.168.1.24 - - [19/Nov/2026:08:16:48 +0530] "GET /login HTTP/1.1" 200 82236 "-" "Mozilla/5.0"
+192.168.1.44 - - [19/Nov/2026:08:20:23 +0530] "POST /api/attendance HTTP/1.1" 200 83293 "-" "Mozilla/5.0"
+10.0.0.26 - - [19/Nov/2026:08:21:28 +0530] "GET /notes.pdf HTTP/1.1" 200 876 "-" "Mozilla/5.0"
+192.168.1.15 - - [19/Nov/2026:08:22:26 +0530] "GET /index.html HTTP/1.1" 200 50324 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:08:31:26 +0530] "GET /index.html HTTP/1.1" 200 52071 "-" "Mozilla/5.0"
+192.168.1.13 - - [19/Nov/2026:08:38:09 +0530] "POST /api/attendance HTTP/1.1" 200 8382 "-" "Mozilla/5.0"
+10.0.0.28 - - [19/Nov/2026:08:43:25 +0530] "GET /notes.pdf HTTP/1.1" 200 38787 "-" "Mozilla/5.0"
+192.168.1.13 - - [19/Nov/2026:08:47:04 +0530] "GET /login HTTP/1.1" 200 36192 "-" "Mozilla/5.0"
+10.0.0.27 - - [19/Nov/2026:08:57:45 +0530] "GET /login HTTP/1.1" 200 10902 "-" "Mozilla/5.0"
+Nov 19 08:59:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.27 port 55872 ssh2
+192.168.1.56 - - [19/Nov/2026:09:01:52 +0530] "GET /notes.pdf HTTP/1.1" 200 62783 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:09:06:26 +0530] "POST /api/attendance HTTP/1.1" 304 23200 "-" "Mozilla/5.0"
+Nov 19 09:16:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.57 port 55265 ssh2
+192.168.1.58 - - [19/Nov/2026:09:26:04 +0530] "GET /index.html HTTP/1.1" 304 72929 "-" "Mozilla/5.0"
+192.168.1.44 - - [19/Nov/2026:09:27:56 +0530] "GET /index.html HTTP/1.1" 200 35219 "-" "Mozilla/5.0"
+10.0.0.22 - - [19/Nov/2026:09:29:23 +0530] "GET /index.html HTTP/1.1" 200 51838 "-" "Mozilla/5.0"
+10.0.0.10 - - [19/Nov/2026:09:29:39 +0530] "GET /notes.pdf HTTP/1.1" 200 39025 "-" "Mozilla/5.0"
+Nov 19 09:36:00 college-srv sshd[900]: Accepted publickey for arjun from 192.168.1.27 port 57110 ssh2
+10.0.0.31 - - [19/Nov/2026:09:50:16 +0530] "POST /api/attendance HTTP/1.1" 304 17894 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:09:51:59 +0530] "GET /login HTTP/1.1" 200 80094 "-" "Mozilla/5.0"
+192.168.1.33 - - [19/Nov/2026:10:02:13 +0530] "GET /login HTTP/1.1" 200 79067 "-" "Mozilla/5.0"
+192.168.1.16 - - [19/Nov/2026:10:06:00 +0530] "POST /api/attendance HTTP/1.1" 200 59259 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:10:13:02 +0530] "POST /api/attendance HTTP/1.1" 304 8793 "-" "Mozilla/5.0"
+10.0.0.4 - - [19/Nov/2026:10:14:07 +0530] "GET /index.html HTTP/1.1" 200 79207 "-" "Mozilla/5.0"
+192.168.1.38 - - [19/Nov/2026:10:15:15 +0530] "GET /notes.pdf HTTP/1.1" 200 76296 "-" "Mozilla/5.0"
+192.168.1.47 - - [19/Nov/2026:10:23:32 +0530] "GET /notes.pdf HTTP/1.1" 304 79541 "-" "Mozilla/5.0"
+192.168.1.22 - - [19/Nov/2026:10:25:16 +0530] "GET /notes.pdf HTTP/1.1" 200 85649 "-" "Mozilla/5.0"
+Nov 19 10:26:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.11 port 56960 ssh2
+10.0.0.27 - - [19/Nov/2026:10:26:18 +0530] "GET /login HTTP/1.1" 304 7231 "-" "Mozilla/5.0"
+Nov 19 10:36:00 college-srv sshd[900]: Accepted publickey for arjun from 192.168.1.32 port 57784 ssh2
+192.168.1.26 - - [19/Nov/2026:10:40:38 +0530] "GET /login HTTP/1.1" 200 5409 "-" "Mozilla/5.0"
+10.0.0.8 - - [19/Nov/2026:10:42:35 +0530] "GET /notes.pdf HTTP/1.1" 200 86097 "-" "Mozilla/5.0"
+192.168.1.56 - - [19/Nov/2026:10:52:20 +0530] "POST /api/attendance HTTP/1.1" 200 24767 "-" "Mozilla/5.0"
+192.168.1.38 - - [19/Nov/2026:11:00:39 +0530] "POST /api/attendance HTTP/1.1" 304 31334 "-" "Mozilla/5.0"
+10.0.0.32 - - [19/Nov/2026:11:03:38 +0530] "POST /api/attendance HTTP/1.1" 200 81809 "-" "Mozilla/5.0"
+Nov 19 11:05:00 college-srv sshd[950]: Failed password for priya from 192.168.1.33 port 50011 ssh2
+Nov 19 11:05:00 college-srv sshd[950]: Failed password for priya from 192.168.1.33 port 50011 ssh2
+Nov 19 11:05:00 college-srv sshd[950]: Failed password for priya from 192.168.1.33 port 50011 ssh2
+10.0.0.4 - - [19/Nov/2026:11:07:24 +0530] "POST /api/attendance HTTP/1.1" 200 85569 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:11:08:56 +0530] "POST /api/attendance HTTP/1.1" 200 22141 "-" "Mozilla/5.0"
+Nov 19 11:09:00 college-srv sshd[900]: Accepted publickey for arjun from 192.168.1.26 port 59228 ssh2
+192.168.1.49 - - [19/Nov/2026:11:09:22 +0530] "GET /login HTTP/1.1" 200 68809 "-" "Mozilla/5.0"
+10.0.0.27 - - [19/Nov/2026:11:13:00 +0530] "POST /api/attendance HTTP/1.1" 200 56042 "-" "Mozilla/5.0"
+10.0.0.24 - - [19/Nov/2026:11:23:05 +0530] "POST /api/attendance HTTP/1.1" 200 5828 "-" "Mozilla/5.0"
+192.168.1.20 - - [19/Nov/2026:11:24:31 +0530] "GET /notes.pdf HTTP/1.1" 200 17100 "-" "Mozilla/5.0"
+192.168.1.46 - - [19/Nov/2026:11:25:33 +0530] "GET /notes.pdf HTTP/1.1" 304 47582 "-" "Mozilla/5.0"
+192.168.1.36 - - [19/Nov/2026:11:27:24 +0530] "GET /login HTTP/1.1" 304 66505 "-" "Mozilla/5.0"
+192.168.1.18 - - [19/Nov/2026:11:35:09 +0530] "POST /api/attendance HTTP/1.1" 200 75586 "-" "Mozilla/5.0"
+10.0.0.7 - - [19/Nov/2026:11:36:56 +0530] "GET /login HTTP/1.1" 304 21805 "-" "Mozilla/5.0"
+192.168.1.54 - - [19/Nov/2026:11:39:25 +0530] "GET /notes.pdf HTTP/1.1" 304 24481 "-" "Mozilla/5.0"
+10.0.0.34 - - [19/Nov/2026:11:41:50 +0530] "GET /notes.pdf HTTP/1.1" 200 9200 "-" "Mozilla/5.0"
+192.168.1.17 - - [19/Nov/2026:11:46:52 +0530] "GET /notes.pdf HTTP/1.1" 200 74207 "-" "Mozilla/5.0"
+192.168.1.38 - - [19/Nov/2026:11:51:30 +0530] "POST /api/attendance HTTP/1.1" 200 9297 "-" "Mozilla/5.0"
+192.168.1.53 - - [19/Nov/2026:11:53:22 +0530] "GET /login HTTP/1.1" 200 42946 "-" "Mozilla/5.0"
+Nov 19 11:58:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.40 port 54413 ssh2
+192.168.1.50 - - [19/Nov/2026:11:59:46 +0530] "GET /login HTTP/1.1" 200 7612 "-" "Mozilla/5.0"
+192.168.1.24 - - [19/Nov/2026:12:03:00 +0530] "GET /login HTTP/1.1" 200 14441 "-" "Mozilla/5.0"
+192.168.1.20 - - [19/Nov/2026:12:03:34 +0530] "GET /index.html HTTP/1.1" 304 24834 "-" "Mozilla/5.0"
+192.168.1.33 - - [19/Nov/2026:12:08:00 +0530] "GET /notes.pdf HTTP/1.1" 200 59594 "-" "Mozilla/5.0"
+192.168.1.43 - - [19/Nov/2026:12:16:34 +0530] "POST /api/attendance HTTP/1.1" 200 35201 "-" "Mozilla/5.0"
+192.168.1.26 - - [19/Nov/2026:12:20:23 +0530] "GET /index.html HTTP/1.1" 200 24367 "-" "Mozilla/5.0"
+192.168.1.34 - - [19/Nov/2026:12:23:21 +0530] "GET /index.html HTTP/1.1" 304 30652 "-" "Mozilla/5.0"
+192.168.1.45 - - [19/Nov/2026:12:26:12 +0530] "POST /api/attendance HTTP/1.1" 200 67160 "-" "Mozilla/5.0"
+192.168.1.43 - - [19/Nov/2026:12:26:37 +0530] "GET /login HTTP/1.1" 200 27262 "-" "Mozilla/5.0"
+10.0.0.29 - - [19/Nov/2026:12:32:23 +0530] "GET /index.html HTTP/1.1" 200 64514 "-" "Mozilla/5.0"
+10.0.0.5 - - [19/Nov/2026:12:38:41 +0530] "POST /api/attendance HTTP/1.1" 304 33071 "-" "Mozilla/5.0"
+10.0.0.6 - - [19/Nov/2026:12:40:03 +0530] "POST /api/attendance HTTP/1.1" 200 49672 "-" "Mozilla/5.0"
+192.168.1.17 - - [19/Nov/2026:12:40:54 +0530] "GET /login HTTP/1.1" 304 73268 "-" "Mozilla/5.0"
+10.0.0.12 - - [19/Nov/2026:12:43:20 +0530] "POST /api/attendance HTTP/1.1" 200 35147 "-" "Mozilla/5.0"
+Nov 19 12:47:00 college-srv sshd[900]: Accepted publickey for arjun from 192.168.1.51 port 58413 ssh2
+192.168.1.47 - - [19/Nov/2026:12:47:02 +0530] "GET /notes.pdf HTTP/1.1" 200 38638 "-" "Mozilla/5.0"
+10.0.0.5 - - [19/Nov/2026:12:52:33 +0530] "GET /login HTTP/1.1" 200 84286 "-" "Mozilla/5.0"
+192.168.1.16 - - [19/Nov/2026:12:55:42 +0530] "GET /login HTTP/1.1" 304 35134 "-" "Mozilla/5.0"
+Nov 19 12:58:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.39 port 52318 ssh2
+192.168.1.25 - - [19/Nov/2026:12:58:49 +0530] "GET /index.html HTTP/1.1" 200 80799 "-" "Mozilla/5.0"
+Nov 19 13:02:00 college-srv sshd[900]: Accepted publickey for varsha from 192.168.1.58 port 52433 ssh2
+192.168.1.54 - - [19/Nov/2026:13:02:08 +0530] "GET /index.html HTTP/1.1" 200 6619 "-" "Mozilla/5.0"
+10.0.0.39 - - [19/Nov/2026:13:12:52 +0530] "GET /index.html HTTP/1.1" 304 14539 "-" "Mozilla/5.0"
+Nov 19 13:13:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.17 port 51554 ssh2
+10.0.0.8 - - [19/Nov/2026:13:14:41 +0530] "GET /index.html HTTP/1.1" 200 44476 "-" "Mozilla/5.0"
+192.168.1.57 - - [19/Nov/2026:13:17:40 +0530] "POST /api/attendance HTTP/1.1" 200 39247 "-" "Mozilla/5.0"
+192.168.1.31 - - [19/Nov/2026:13:24:58 +0530] "POST /api/attendance HTTP/1.1" 304 70049 "-" "Mozilla/5.0"
+192.168.1.54 - - [19/Nov/2026:13:27:46 +0530] "GET /notes.pdf HTTP/1.1" 200 28282 "-" "Mozilla/5.0"
+192.168.1.35 - - [19/Nov/2026:13:36:58 +0530] "GET /notes.pdf HTTP/1.1" 200 4814 "-" "Mozilla/5.0"
+192.168.1.11 - - [19/Nov/2026:13:39:59 +0530] "GET /notes.pdf HTTP/1.1" 200 19091 "-" "Mozilla/5.0"
+192.168.1.25 - - [19/Nov/2026:13:47:58 +0530] "GET /login HTTP/1.1" 200 51448 "-" "Mozilla/5.0"
+192.168.1.51 - - [19/Nov/2026:13:56:32 +0530] "GET /index.html HTTP/1.1" 200 34627 "-" "Mozilla/5.0"
+192.168.1.34 - - [19/Nov/2026:14:00:25 +0530] "POST /api/attendance HTTP/1.1" 200 66099 "-" "Mozilla/5.0"
+10.0.0.20 - - [19/Nov/2026:14:01:09 +0530] "GET /login HTTP/1.1" 304 1223 "-" "Mozilla/5.0"
+10.0.0.3 - - [19/Nov/2026:14:01:27 +0530] "GET /index.html HTTP/1.1" 200 61965 "-" "Mozilla/5.0"
+10.0.0.20 - - [19/Nov/2026:14:06:08 +0530] "GET /index.html HTTP/1.1" 200 39095 "-" "Mozilla/5.0"
+10.0.0.14 - - [19/Nov/2026:14:09:09 +0530] "GET /login HTTP/1.1" 200 57506 "-" "Mozilla/5.0"
+10.0.0.37 - - [19/Nov/2026:14:10:29 +0530] "POST /api/attendance HTTP/1.1" 200 76412 "-" "Mozilla/5.0"
+10.0.0.3 - - [19/Nov/2026:14:13:19 +0530] "GET /login HTTP/1.1" 304 71925 "-" "Mozilla/5.0"
+192.168.1.29 - - [19/Nov/2026:14:15:46 +0530] "GET /login HTTP/1.1" 200 21592 "-" "Mozilla/5.0"
+10.0.0.23 - - [19/Nov/2026:14:16:01 +0530] "GET /login HTTP/1.1" 200 37540 "-" "Mozilla/5.0"
+192.168.1.25 - - [19/Nov/2026:14:16:46 +0530] "GET /index.html HTTP/1.1" 200 86732 "-" "Mozilla/5.0"
+192.168.1.37 - - [19/Nov/2026:14:18:48 +0530] "GET /index.html HTTP/1.1" 200 46087 "-" "Mozilla/5.0"
+10.0.0.8 - - [19/Nov/2026:14:22:06 +0530] "POST /api/attendance HTTP/1.1" 304 11794 "-" "Mozilla/5.0"
+192.168.1.44 - - [19/Nov/2026:14:22:37 +0530] "GET /login HTTP/1.1" 200 59522 "-" "Mozilla/5.0"
+10.0.0.10 - - [19/Nov/2026:14:29:41 +0530] "GET /notes.pdf HTTP/1.1" 200 35559 "-" "Mozilla/5.0"
+10.0.0.34 - - [19/Nov/2026:14:36:10 +0530] "GET /login HTTP/1.1" 200 30846 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:14:40:49 +0530] "GET /index.html HTTP/1.1" 304 74064 "-" "Mozilla/5.0"
+192.168.1.27 - - [19/Nov/2026:14:40:58 +0530] "GET /index.html HTTP/1.1" 200 27559 "-" "Mozilla/5.0"
+Nov 19 14:44:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.46 port 57900 ssh2
+10.0.0.8 - - [19/Nov/2026:14:44:50 +0530] "GET /notes.pdf HTTP/1.1" 304 78167 "-" "Mozilla/5.0"
+192.168.1.55 - - [19/Nov/2026:14:45:55 +0530] "GET /index.html HTTP/1.1" 200 22830 "-" "Mozilla/5.0"
+10.0.0.25 - - [19/Nov/2026:14:49:38 +0530] "POST /api/attendance HTTP/1.1" 200 81538 "-" "Mozilla/5.0"
+Nov 19 14:54:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.24 port 54745 ssh2
+10.0.0.12 - - [19/Nov/2026:14:56:40 +0530] "GET /notes.pdf HTTP/1.1" 304 17130 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:15:16:34 +0530] "GET /notes.pdf HTTP/1.1" 200 26689 "-" "Mozilla/5.0"
+192.168.1.25 - - [19/Nov/2026:15:16:54 +0530] "POST /api/attendance HTTP/1.1" 304 60163 "-" "Mozilla/5.0"
+10.0.0.28 - - [19/Nov/2026:15:18:48 +0530] "GET /notes.pdf HTTP/1.1" 304 46997 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:15:24:25 +0530] "GET /index.html HTTP/1.1" 200 10354 "-" "Mozilla/5.0"
+10.0.0.9 - - [19/Nov/2026:15:27:20 +0530] "GET /login HTTP/1.1" 200 55495 "-" "Mozilla/5.0"
+10.0.0.21 - - [19/Nov/2026:15:30:31 +0530] "POST /api/attendance HTTP/1.1" 200 86911 "-" "Mozilla/5.0"
+192.168.1.18 - - [19/Nov/2026:15:30:41 +0530] "GET /notes.pdf HTTP/1.1" 200 46785 "-" "Mozilla/5.0"
+10.0.0.13 - - [19/Nov/2026:15:32:48 +0530] "GET /index.html HTTP/1.1" 200 84067 "-" "Mozilla/5.0"
+10.0.0.3 - - [19/Nov/2026:15:33:21 +0530] "POST /api/attendance HTTP/1.1" 304 28036 "-" "Mozilla/5.0"
+10.0.0.28 - - [19/Nov/2026:15:37:16 +0530] "GET /index.html HTTP/1.1" 200 40279 "-" "Mozilla/5.0"
+10.0.0.20 - - [19/Nov/2026:15:38:06 +0530] "GET /notes.pdf HTTP/1.1" 200 24835 "-" "Mozilla/5.0"
+10.0.0.10 - - [19/Nov/2026:15:40:37 +0530] "GET /index.html HTTP/1.1" 200 27992 "-" "Mozilla/5.0"
+10.0.0.16 - - [19/Nov/2026:15:45:24 +0530] "GET /login HTTP/1.1" 304 89474 "-" "Mozilla/5.0"
+Nov 19 15:50:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.19 port 54416 ssh2
+192.168.1.57 - - [19/Nov/2026:15:51:25 +0530] "POST /api/attendance HTTP/1.1" 200 22065 "-" "Mozilla/5.0"
+192.168.1.21 - - [19/Nov/2026:15:51:46 +0530] "GET /login HTTP/1.1" 200 32608 "-" "Mozilla/5.0"
+10.0.0.11 - - [19/Nov/2026:15:54:24 +0530] "GET /index.html HTTP/1.1" 200 74501 "-" "Mozilla/5.0"
+192.168.1.43 - - [19/Nov/2026:15:54:36 +0530] "POST /api/attendance HTTP/1.1" 200 62855 "-" "Mozilla/5.0"
+Nov 19 15:57:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.35 port 59757 ssh2
+192.168.1.11 - - [19/Nov/2026:15:57:41 +0530] "GET /login HTTP/1.1" 200 51448 "-" "Mozilla/5.0"
+192.168.1.50 - - [19/Nov/2026:16:01:39 +0530] "GET /index.html HTTP/1.1" 200 12817 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:16:10:53 +0530] "GET /login HTTP/1.1" 304 74237 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:16:14:52 +0530] "GET /notes.pdf HTTP/1.1" 304 65128 "-" "Mozilla/5.0"
+Nov 19 16:18:00 college-srv sshd[900]: Accepted publickey for varsha from 192.168.1.32 port 59089 ssh2
+192.168.1.59 - - [19/Nov/2026:16:18:27 +0530] "GET /login HTTP/1.1" 304 33474 "-" "Mozilla/5.0"
+192.168.1.55 - - [19/Nov/2026:16:21:06 +0530] "GET /login HTTP/1.1" 200 62698 "-" "Mozilla/5.0"
+10.0.0.20 - - [19/Nov/2026:16:23:27 +0530] "POST /api/attendance HTTP/1.1" 200 24160 "-" "Mozilla/5.0"
+Nov 19 16:25:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.31 port 59253 ssh2
+10.0.0.5 - - [19/Nov/2026:16:29:57 +0530] "GET /notes.pdf HTTP/1.1" 304 32817 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:16:42:57 +0530] "GET /login HTTP/1.1" 200 65310 "-" "Mozilla/5.0"
+192.168.1.54 - - [19/Nov/2026:16:47:53 +0530] "POST /api/attendance HTTP/1.1" 200 73253 "-" "Mozilla/5.0"
+10.0.0.32 - - [19/Nov/2026:16:48:57 +0530] "GET /notes.pdf HTTP/1.1" 200 28465 "-" "Mozilla/5.0"
+10.0.0.2 - - [19/Nov/2026:17:00:00 +0530] "GET /index.html HTTP/1.1" 200 29105 "-" "Mozilla/5.0"
+10.0.0.27 - - [19/Nov/2026:17:04:00 +0530] "POST /api/attendance HTTP/1.1" 200 62817 "-" "Mozilla/5.0"
+192.168.1.59 - - [19/Nov/2026:17:05:41 +0530] "POST /api/attendance HTTP/1.1" 200 20392 "-" "Mozilla/5.0"
+192.168.1.52 - - [19/Nov/2026:17:06:42 +0530] "GET /notes.pdf HTTP/1.1" 200 55756 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:17:11:26 +0530] "GET /index.html HTTP/1.1" 200 3172 "-" "Mozilla/5.0"
+192.168.1.16 - - [19/Nov/2026:17:12:52 +0530] "POST /api/attendance HTTP/1.1" 200 66146 "-" "Mozilla/5.0"
+192.168.1.59 - - [19/Nov/2026:17:23:55 +0530] "GET /notes.pdf HTTP/1.1" 200 74175 "-" "Mozilla/5.0"
+Nov 19 17:30:00 college-srv sshd[900]: Accepted publickey for varsha from 192.168.1.11 port 55512 ssh2
+192.168.1.37 - - [19/Nov/2026:17:31:36 +0530] "GET /index.html HTTP/1.1" 200 55690 "-" "Mozilla/5.0"
+10.0.0.37 - - [19/Nov/2026:17:34:36 +0530] "GET /index.html HTTP/1.1" 304 39874 "-" "Mozilla/5.0"
+192.168.1.30 - - [19/Nov/2026:17:37:40 +0530] "GET /index.html HTTP/1.1" 200 52781 "-" "Mozilla/5.0"
+192.168.1.44 - - [19/Nov/2026:17:40:43 +0530] "GET /index.html HTTP/1.1" 200 5673 "-" "Mozilla/5.0"
+192.168.1.42 - - [19/Nov/2026:17:41:31 +0530] "GET /index.html HTTP/1.1" 200 25706 "-" "Mozilla/5.0"
+Nov 19 17:46:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.46 port 54969 ssh2
+10.0.0.20 - - [19/Nov/2026:18:03:39 +0530] "GET /login HTTP/1.1" 200 20307 "-" "Mozilla/5.0"
+Nov 19 18:11:00 college-srv sshd[900]: Accepted publickey for varsha from 192.168.1.54 port 55748 ssh2
+Nov 19 18:13:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.22 port 52510 ssh2
+10.0.0.16 - - [19/Nov/2026:18:18:44 +0530] "GET /index.html HTTP/1.1" 200 34977 "-" "Mozilla/5.0"
+192.168.1.56 - - [19/Nov/2026:18:23:49 +0530] "GET /notes.pdf HTTP/1.1" 200 38922 "-" "Mozilla/5.0"
+10.0.0.2 - - [19/Nov/2026:18:29:34 +0530] "GET /index.html HTTP/1.1" 200 8709 "-" "Mozilla/5.0"
+10.0.0.37 - - [19/Nov/2026:18:29:42 +0530] "GET /login HTTP/1.1" 200 4690 "-" "Mozilla/5.0"
+10.0.0.5 - - [19/Nov/2026:18:29:45 +0530] "GET /notes.pdf HTTP/1.1" 200 77359 "-" "Mozilla/5.0"
+10.0.0.12 - - [19/Nov/2026:18:30:24 +0530] "POST /api/attendance HTTP/1.1" 200 74793 "-" "Mozilla/5.0"
+10.0.0.38 - - [19/Nov/2026:18:30:43 +0530] "GET /notes.pdf HTTP/1.1" 200 15796 "-" "Mozilla/5.0"
+192.168.1.27 - - [19/Nov/2026:18:37:58 +0530] "GET /index.html HTTP/1.1" 200 18937 "-" "Mozilla/5.0"
+10.0.0.36 - - [19/Nov/2026:18:51:24 +0530] "GET /notes.pdf HTTP/1.1" 200 41062 "-" "Mozilla/5.0"
+10.0.0.11 - - [19/Nov/2026:18:54:51 +0530] "POST /api/attendance HTTP/1.1" 200 70565 "-" "Mozilla/5.0"
+192.168.1.29 - - [19/Nov/2026:18:55:53 +0530] "POST /api/attendance HTTP/1.1" 200 41955 "-" "Mozilla/5.0"
+10.0.0.21 - - [19/Nov/2026:18:56:15 +0530] "POST /api/attendance HTTP/1.1" 304 49809 "-" "Mozilla/5.0"
+192.168.1.10 - - [19/Nov/2026:18:56:41 +0530] "GET /index.html HTTP/1.1" 304 41271 "-" "Mozilla/5.0"
+10.0.0.27 - - [19/Nov/2026:18:56:53 +0530] "GET /login HTTP/1.1" 304 66844 "-" "Mozilla/5.0"
+192.168.1.56 - - [19/Nov/2026:19:02:16 +0530] "GET /login HTTP/1.1" 200 72961 "-" "Mozilla/5.0"
+Nov 19 19:10:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.38 port 54906 ssh2
+192.168.1.19 - - [19/Nov/2026:19:12:43 +0530] "GET /login HTTP/1.1" 304 86026 "-" "Mozilla/5.0"
+10.0.0.7 - - [19/Nov/2026:19:20:36 +0530] "GET /notes.pdf HTTP/1.1" 200 88281 "-" "Mozilla/5.0"
+192.168.1.30 - - [19/Nov/2026:19:22:17 +0530] "GET /index.html HTTP/1.1" 200 4901 "-" "Mozilla/5.0"
+10.0.0.32 - - [19/Nov/2026:19:23:16 +0530] "POST /api/attendance HTTP/1.1" 200 49649 "-" "Mozilla/5.0"
+192.168.1.41 - - [19/Nov/2026:19:23:40 +0530] "POST /api/attendance HTTP/1.1" 200 20967 "-" "Mozilla/5.0"
+192.168.1.31 - - [19/Nov/2026:19:24:05 +0530] "GET /index.html HTTP/1.1" 200 5062 "-" "Mozilla/5.0"
+10.0.0.38 - - [19/Nov/2026:19:25:49 +0530] "GET /notes.pdf HTTP/1.1" 200 6345 "-" "Mozilla/5.0"
+192.168.1.42 - - [19/Nov/2026:19:28:54 +0530] "GET /notes.pdf HTTP/1.1" 200 31318 "-" "Mozilla/5.0"
+10.0.0.25 - - [19/Nov/2026:19:31:54 +0530] "GET /index.html HTTP/1.1" 304 16217 "-" "Mozilla/5.0"
+10.0.0.38 - - [19/Nov/2026:19:37:36 +0530] "GET /notes.pdf HTTP/1.1" 200 37177 "-" "Mozilla/5.0"
+10.0.0.8 - - [19/Nov/2026:19:49:37 +0530] "GET /notes.pdf HTTP/1.1" 200 5463 "-" "Mozilla/5.0"
+10.0.0.5 - - [19/Nov/2026:19:50:32 +0530] "POST /api/attendance HTTP/1.1" 200 13745 "-" "Mozilla/5.0"
+Nov 19 19:51:00 college-srv sshd[900]: Accepted publickey for priya from 192.168.1.19 port 51206 ssh2
+10.0.0.10 - - [19/Nov/2026:20:06:59 +0530] "POST /api/attendance HTTP/1.1" 200 82861 "-" "Mozilla/5.0"
+192.168.1.23 - - [19/Nov/2026:20:08:53 +0530] "GET /notes.pdf HTTP/1.1" 200 23519 "-" "Mozilla/5.0"
+192.168.1.55 - - [19/Nov/2026:20:10:59 +0530] "GET /notes.pdf HTTP/1.1" 200 81588 "-" "Mozilla/5.0"
+10.0.0.35 - - [19/Nov/2026:20:11:23 +0530] "POST /api/attendance HTTP/1.1" 200 54100 "-" "Mozilla/5.0"
+192.168.1.25 - - [19/Nov/2026:20:17:36 +0530] "GET /login HTTP/1.1" 200 22493 "-" "Mozilla/5.0"
+192.168.1.26 - - [19/Nov/2026:20:20:29 +0530] "POST /api/attendance HTTP/1.1" 200 20602 "-" "Mozilla/5.0"
+10.0.0.30 - - [19/Nov/2026:20:20:52 +0530] "GET /notes.pdf HTTP/1.1" 304 15653 "-" "Mozilla/5.0"
+192.168.1.50 - - [19/Nov/2026:20:21:14 +0530] "GET /index.html HTTP/1.1" 200 59662 "-" "Mozilla/5.0"
+10.0.0.14 - - [19/Nov/2026:20:27:16 +0530] "GET /notes.pdf HTTP/1.1" 200 13288 "-" "Mozilla/5.0"
+192.168.1.42 - - [19/Nov/2026:20:35:30 +0530] "GET /login HTTP/1.1" 200 34289 "-" "Mozilla/5.0"
+192.168.1.23 - - [19/Nov/2026:20:37:19 +0530] "GET /notes.pdf HTTP/1.1" 200 9110 "-" "Mozilla/5.0"
+Nov 19 20:51:00 college-srv sshd[900]: Accepted publickey for arjun from 192.168.1.32 port 56492 ssh2
+10.0.0.3 - - [19/Nov/2026:20:51:32 +0530] "GET /login HTTP/1.1" 200 58565 "-" "Mozilla/5.0"
+192.168.1.22 - - [19/Nov/2026:20:53:05 +0530] "POST /api/attendance HTTP/1.1" 200 23479 "-" "Mozilla/5.0"
+10.0.0.11 - - [19/Nov/2026:20:55:09 +0530] "GET /login HTTP/1.1" 304 54473 "-" "Mozilla/5.0"
+10.0.0.20 - - [19/Nov/2026:20:57:10 +0530] "GET /index.html HTTP/1.1" 200 19420 "-" "Mozilla/5.0"
+Nov 19 20:58:00 college-srv sshd[900]: Accepted publickey for meera from 192.168.1.13 port 59494 ssh2
+192.168.1.50 - - [19/Nov/2026:21:00:26 +0530] "POST /api/attendance HTTP/1.1" 200 87726 "-" "Mozilla/5.0"
+192.168.1.42 - - [19/Nov/2026:21:07:07 +0530] "POST /api/attendance HTTP/1.1" 200 71488 "-" "Mozilla/5.0"
+192.168.1.47 - - [19/Nov/2026:21:09:42 +0530] "POST /api/attendance HTTP/1.1" 304 22038 "-" "Mozilla/5.0"
+192.168.1.15 - - [19/Nov/2026:21:10:06 +0530] "GET /login HTTP/1.1" 200 73292 "-" "Mozilla/5.0"
+192.168.1.16 - - [19/Nov/2026:21:17:07 +0530] "POST /api/attendance HTTP/1.1" 304 77295 "-" "Mozilla/5.0"
+192.168.1.54 - - [19/Nov/2026:21:22:33 +0530] "POST /api/attendance HTTP/1.1" 200 16329 "-" "Mozilla/5.0"
+10.0.0.33 - - [19/Nov/2026:21:32:01 +0530] "GET /notes.pdf HTTP/1.1" 200 32420 "-" "Mozilla/5.0"
+10.0.0.38 - - [19/Nov/2026:21:33:15 +0530] "POST /api/attendance HTTP/1.1" 200 46466 "-" "Mozilla/5.0"
+192.168.1.27 - - [19/Nov/2026:21:36:53 +0530] "GET /login HTTP/1.1" 200 21928 "-" "Mozilla/5.0"
+10.0.0.26 - - [19/Nov/2026:21:38:53 +0530] "GET /index.html HTTP/1.1" 304 7311 "-" "Mozilla/5.0"
+10.0.0.17 - - [19/Nov/2026:21:49:45 +0530] "POST /api/attendance HTTP/1.1" 200 38712 "-" "Mozilla/5.0"
+192.168.1.11 - - [19/Nov/2026:21:59:44 +0530] "GET /notes.pdf HTTP/1.1" 200 2818 "-" "Mozilla/5.0"
+10.0.0.15 - - [19/Nov/2026:22:03:49 +0530] "GET /index.html HTTP/1.1" 200 72737 "-" "Mozilla/5.0"
+192.168.1.29 - - [19/Nov/2026:22:07:03 +0530] "GET /login HTTP/1.1" 200 61634 "-" "Mozilla/5.0"
+10.0.0.20 - - [19/Nov/2026:22:15:47 +0530] "GET /index.html HTTP/1.1" 200 60025 "-" "Mozilla/5.0"
+192.168.1.43 - - [19/Nov/2026:22:20:27 +0530] "GET /notes.pdf HTTP/1.1" 200 30053 "-" "Mozilla/5.0"
+192.168.1.32 - - [19/Nov/2026:22:20:35 +0530] "GET /login HTTP/1.1" 304 35879 "-" "Mozilla/5.0"
+10.0.0.24 - - [19/Nov/2026:22:22:25 +0530] "POST /api/attendance HTTP/1.1" 200 1386 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:22:24:54 +0530] "POST /api/attendance HTTP/1.1" 304 38256 "-" "Mozilla/5.0"
+10.0.0.9 - - [19/Nov/2026:22:25:36 +0530] "GET /notes.pdf HTTP/1.1" 304 37109 "-" "Mozilla/5.0"
+192.168.1.17 - - [19/Nov/2026:22:27:15 +0530] "GET /index.html HTTP/1.1" 200 15316 "-" "Mozilla/5.0"
+192.168.1.47 - - [19/Nov/2026:22:28:07 +0530] "GET /notes.pdf HTTP/1.1" 200 53786 "-" "Mozilla/5.0"
+10.0.0.40 - - [19/Nov/2026:22:28:42 +0530] "GET /index.html HTTP/1.1" 304 58158 "-" "Mozilla/5.0"
+10.0.0.21 - - [19/Nov/2026:22:30:52 +0530] "GET /login HTTP/1.1" 200 32252 "-" "Mozilla/5.0"
+192.168.1.31 - - [19/Nov/2026:22:32:34 +0530] "POST /api/attendance HTTP/1.1" 304 2056 "-" "Mozilla/5.0"
+10.0.0.19 - - [19/Nov/2026:22:40:34 +0530] "GET /index.html HTTP/1.1" 200 33344 "-" "Mozilla/5.0"
+192.168.1.49 - - [19/Nov/2026:22:41:24 +0530] "GET /notes.pdf HTTP/1.1" 200 60908 "-" "Mozilla/5.0"
+192.168.1.52 - - [19/Nov/2026:22:43:12 +0530] "GET /login HTTP/1.1" 200 62790 "-" "Mozilla/5.0"
+192.168.1.32 - - [19/Nov/2026:22:43:47 +0530] "GET /notes.pdf HTTP/1.1" 304 44673 "-" "Mozilla/5.0"
+10.0.0.28 - - [19/Nov/2026:22:49:59 +0530] "POST /api/attendance HTTP/1.1" 200 5777 "-" "Mozilla/5.0"
+10.0.0.29 - - [19/Nov/2026:22:52:25 +0530] "GET /index.html HTTP/1.1" 200 68313 "-" "Mozilla/5.0"
+10.0.0.10 - - [19/Nov/2026:22:55:06 +0530] "GET /index.html HTTP/1.1" 304 72582 "-" "Mozilla/5.0"
+192.168.1.19 - - [19/Nov/2026:22:55:27 +0530] "GET /index.html HTTP/1.1" 200 14790 "-" "Mozilla/5.0"
+192.168.1.22 - - [19/Nov/2026:23:03:40 +0530] "GET /index.html HTTP/1.1" 200 75193 "-" "Mozilla/5.0"
+192.168.1.10 - - [19/Nov/2026:23:06:26 +0530] "GET /login HTTP/1.1" 304 85504 "-" "Mozilla/5.0"
+10.0.0.18 - - [19/Nov/2026:23:19:58 +0530] "GET /login HTTP/1.1" 304 68322 "-" "Mozilla/5.0"
+192.168.1.31 - - [19/Nov/2026:23:20:13 +0530] "POST /api/attendance HTTP/1.1" 200 3852 "-" "Mozilla/5.0"
+192.168.1.44 - - [19/Nov/2026:23:27:36 +0530] "POST /api/attendance HTTP/1.1" 200 12025 "-" "Mozilla/5.0"
+10.0.0.29 - - [19/Nov/2026:23:29:22 +0530] "GET /index.html HTTP/1.1" 200 59884 "-" "Mozilla/5.0"
+10.0.0.23 - - [19/Nov/2026:23:40:10 +0530] "GET /login HTTP/1.1" 200 66676 "-" "Mozilla/5.0"
+10.0.0.39 - - [19/Nov/2026:23:44:33 +0530] "GET /index.html HTTP/1.1" 200 48042 "-" "Mozilla/5.0"
+192.168.1.30 - - [19/Nov/2026:23:52:19 +0530] "GET /notes.pdf HTTP/1.1" 200 86473 "-" "Mozilla/5.0"
+192.168.1.45 - - [19/Nov/2026:23:56:12 +0530] "POST /api/attendance HTTP/1.1" 304 53143 "-" "Mozilla/5.0"
+192.168.1.17 - - [19/Nov/2026:02:30:24 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
+192.168.1.11 - - [19/Nov/2026:02:31:00 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
+Nov 19 02:34:00 college-srv sshd[2100]: Accepted publickey for varsha from 192.168.1.20 port 51200 ssh2
+192.168.1.12 - - [19/Nov/2026:02:34:35 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
+Nov 19 02:36:01 college-srv sshd[2211]: Failed password for invalid user admin from 185.220.101.45 port 40000 ssh2
+Nov 19 02:36:02 college-srv sshd[2211]: Failed password for invalid user root from 185.220.101.45 port 40001 ssh2
+Nov 19 02:36:03 college-srv sshd[2211]: Failed password for invalid user oracle from 185.220.101.45 port 40002 ssh2
+Nov 19 02:36:04 college-srv sshd[2211]: Failed password for invalid user test from 185.220.101.45 port 40003 ssh2
+Nov 19 02:36:06 college-srv sshd[2211]: Failed password for invalid user ubuntu from 185.220.101.45 port 40004 ssh2
+Nov 19 02:36:07 college-srv sshd[2211]: Failed password for invalid user postgres from 185.220.101.45 port 40005 ssh2
+Nov 19 02:36:08 college-srv sshd[2211]: Failed password for invalid user admin from 185.220.101.45 port 40006 ssh2
+Nov 19 02:36:09 college-srv sshd[2211]: Failed password for invalid user root from 185.220.101.45 port 40007 ssh2
+Nov 19 02:36:10 college-srv sshd[2211]: Failed password for invalid user oracle from 185.220.101.45 port 40008 ssh2
+Nov 19 02:36:12 college-srv sshd[2211]: Failed password for invalid user test from 185.220.101.45 port 40009 ssh2
+Nov 19 02:36:13 college-srv sshd[2211]: Failed password for invalid user ubuntu from 185.220.101.45 port 40010 ssh2
+Nov 19 02:36:14 college-srv sshd[2211]: Failed password for invalid user postgres from 185.220.101.45 port 40011 ssh2
+Nov 19 02:36:15 college-srv sshd[2211]: Failed password for invalid user admin from 185.220.101.45 port 40012 ssh2
+Nov 19 02:36:16 college-srv sshd[2211]: Failed password for invalid user root from 185.220.101.45 port 40013 ssh2
+Nov 19 02:36:18 college-srv sshd[2211]: Failed password for invalid user oracle from 185.220.101.45 port 40014 ssh2
+Nov 19 02:36:19 college-srv sshd[2211]: Failed password for invalid user test from 185.220.101.45 port 40015 ssh2
+Nov 19 02:36:20 college-srv sshd[2211]: Failed password for invalid user ubuntu from 185.220.101.45 port 40016 ssh2
+Nov 19 02:36:21 college-srv sshd[2211]: Failed password for invalid user postgres from 185.220.101.45 port 40017 ssh2
+Nov 19 02:36:22 college-srv sshd[2211]: Failed password for invalid user admin from 185.220.101.45 port 40018 ssh2
+Nov 19 02:36:24 college-srv sshd[2211]: Failed password for invalid user root from 185.220.101.45 port 40019 ssh2
+Nov 19 02:36:25 college-srv sshd[2211]: Failed password for invalid user oracle from 185.220.101.45 port 40020 ssh2
+Nov 19 02:36:26 college-srv sshd[2211]: Failed password for invalid user test from 185.220.101.45 port 40021 ssh2
+Nov 19 02:36:27 college-srv sshd[2211]: Failed password for invalid user ubuntu from 185.220.101.45 port 40022 ssh2
+Nov 19 02:36:28 college-srv sshd[2211]: Failed password for invalid user postgres from 185.220.101.45 port 40023 ssh2
+192.168.1.16 - - [19/Nov/2026:02:36:29 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
+Nov 19 02:36:30 college-srv sshd[2211]: Failed password for invalid user admin from 185.220.101.45 port 40024 ssh2
+Nov 19 02:36:31 college-srv sshd[2211]: Failed password for invalid user root from 185.220.101.45 port 40025 ssh2
+Nov 19 02:36:32 college-srv sshd[2211]: Failed password for invalid user oracle from 185.220.101.45 port 40026 ssh2
+Nov 19 02:36:33 college-srv sshd[2211]: Failed password for invalid user test from 185.220.101.45 port 40027 ssh2
+Nov 19 02:36:34 college-srv sshd[2211]: Failed password for invalid user ubuntu from 185.220.101.45 port 40028 ssh2
+Nov 19 02:36:36 college-srv sshd[2211]: Failed password for invalid user postgres from 185.220.101.45 port 40029 ssh2
+Nov 19 02:36:37 college-srv sshd[2211]: Failed password for invalid user admin from 185.220.101.45 port 40030 ssh2
+Nov 19 02:36:38 college-srv sshd[2211]: Failed password for invalid user root from 185.220.101.45 port 40031 ssh2
+Nov 19 02:36:41 college-srv sshd[2230]: Accepted password for ubuntu from 185.220.101.45 port 40100 ssh2
+Nov 19 02:37:00 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=20
+Nov 19 02:37:00 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=27
+Nov 19 02:37:01 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=34
+Nov 19 02:37:01 college-srv useradd[2290]: new user: name=svc_backup, UID=1003, GID=1003, home=/home/svc_backup
+Nov 19 02:37:01 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=41
+Nov 19 02:37:02 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=48
+Nov 19 02:37:02 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=55
+Nov 19 02:37:02 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=62
+Nov 19 02:37:03 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=69
+Nov 19 02:37:03 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=76
+Nov 19 02:37:04 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=83
+Nov 19 02:37:04 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=90
+Nov 19 02:37:04 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=97
+Nov 19 02:37:05 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=104
+Nov 19 02:37:05 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=111
+Nov 19 02:37:06 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=118
+Nov 19 02:37:06 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=125
+Nov 19 02:37:06 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=132
+Nov 19 02:37:07 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=139
+Nov 19 02:37:07 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=146
+Nov 19 02:37:08 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=153
+Nov 19 02:37:08 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=160
+Nov 19 02:37:08 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=167
+Nov 19 02:37:09 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=174
+Nov 19 02:37:09 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=181
+Nov 19 02:37:10 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=188
+Nov 19 02:37:10 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=195
+Nov 19 02:37:10 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=202
+Nov 19 02:37:11 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=209
+185.220.101.45 - - [19/Nov/2026:02:37:11 +0530] "GET /exports/students_db.zip HTTP/1.1" 200 734003200 "-" "Mozilla/5.0"
+Nov 19 02:37:11 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=216
+Nov 19 02:37:12 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=223
+Nov 19 02:37:12 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=230
+Nov 19 02:37:12 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=237
+Nov 19 02:37:13 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=244
+Nov 19 02:37:13 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=251
+Nov 19 02:37:14 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=258
+Nov 19 02:37:14 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=265
+Nov 19 02:37:14 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=272
+Nov 19 02:37:15 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=279
+Nov 19 02:37:15 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=286
+Nov 19 02:37:16 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=293
+Nov 19 02:37:16 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=300
+Nov 19 02:37:16 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=307
+Nov 19 02:37:17 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=314
+Nov 19 02:37:17 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=321
+Nov 19 02:37:18 college-fw kernel: [UFW BLOCK] IN=eth0 OUT= SRC=45.155.205.9 DST=10.0.0.5 PROTO=TCP SPT=4444 DPT=328
+192.168.1.13 - - [19/Nov/2026:02:37:23 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
+185.220.101.45 - - [19/Nov/2026:02:37:26 +0530] "GET /exports/faculty_records.zip HTTP/1.1" 200 402653184 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:00 +0530] "GET /wp-admin/setup0.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:01 +0530] "GET /wp-admin/setup1.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:02 +0530] "GET /wp-admin/setup2.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:02 +0530] "GET /wp-admin/setup3.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:03 +0530] "GET /wp-admin/setup4.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:04 +0530] "GET /wp-admin/setup5.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:04 +0530] "GET /wp-admin/setup6.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:05 +0530] "GET /wp-admin/setup7.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:06 +0530] "GET /wp-admin/setup8.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:07 +0530] "GET /wp-admin/setup9.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:07 +0530] "GET /wp-admin/setup10.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:08 +0530] "GET /wp-admin/setup11.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:09 +0530] "GET /wp-admin/setup12.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:09 +0530] "GET /wp-admin/setup13.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:10 +0530] "GET /wp-admin/setup14.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:11 +0530] "GET /wp-admin/setup15.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:11 +0530] "GET /wp-admin/setup16.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:12 +0530] "GET /wp-admin/setup17.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:13 +0530] "GET /wp-admin/setup18.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:14 +0530] "GET /wp-admin/setup19.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:14 +0530] "GET /wp-admin/setup20.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:15 +0530] "GET /wp-admin/setup21.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:16 +0530] "GET /wp-admin/setup22.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:16 +0530] "GET /wp-admin/setup23.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:17 +0530] "GET /wp-admin/setup24.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+192.168.1.14 - - [19/Nov/2026:02:38:18 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:18 +0530] "GET /wp-admin/setup25.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:18 +0530] "GET /wp-admin/setup26.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:19 +0530] "GET /wp-admin/setup27.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:20 +0530] "GET /wp-admin/setup28.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+103.77.192.19 - - [19/Nov/2026:02:38:21 +0530] "GET /wp-admin/setup29.php HTTP/1.1" 404 196 "-" "Mozilla/5.0"
+192.168.1.10 - - [19/Nov/2026:02:38:41 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
+192.168.1.15 - - [19/Nov/2026:02:38:48 +0530] "GET /index.html HTTP/1.1" 200 5120 "-" "Mozilla/5.0"
